@@ -1,0 +1,40 @@
+/* global styles */
+
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* body styles */
+
+body {
+    text-align: center;
+    color: white
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+
+p {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+/* footer styles */
+
+footer {
+    text-align: right;
+    color: gray;
+}
