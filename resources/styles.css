@@ -27,7 +27,7 @@ h3 {
     color: gray;
 }
 
-p {
+body p {
     font-size: 16px;
     color: aquamarine;
     text-decoration: underline;
@@ -54,4 +54,5 @@ img {
 footer p {
     text-align: right;
     color: gray;
+    text-decoration: none;
 }
