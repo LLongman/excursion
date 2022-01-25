@@ -34,7 +34,7 @@ p {
 
 /* footer styles */
 
-footer {
+footer p {
     text-align: right;
     color: gray;
 }
