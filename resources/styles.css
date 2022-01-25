@@ -32,6 +32,15 @@ p {
     color: aquamarine;
 }
 
+img {
+    display: block;
+    margin: auto;
+}
+
+img .tent {
+    width: 100%;
+}
+
 /* footer styles */
 
 footer p {
